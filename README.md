@@ -38,7 +38,7 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
 		<li>Windows</li>
         <li>Ubuntu</li>
         <li>Fedora</li>
-        <li>Eleentary OS</li>
+        <li>Elementary OS</li>
 	</ul>
 </details>
 </br>
