@@ -33,7 +33,7 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
 </details>
 
 <details>
-	<summary>Operating Systems</summary>
+	<summary>Operating systems</summary>
 	<ul>
 		<li>Windows</li>
         <li>Ubuntu</li>
