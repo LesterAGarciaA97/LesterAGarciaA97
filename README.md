@@ -64,5 +64,5 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
 </a>    
 <a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=LesterAGarciaA97.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=radical" />
 </a>
