@@ -46,3 +46,8 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
 
 <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+</br>
+
+![Lester García github stats]
+(https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true)
