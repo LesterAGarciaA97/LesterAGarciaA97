@@ -49,5 +49,20 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
 
 </br>
 
-![Lester García github stats]
-(https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true)
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&theme=radical&hide_langs_below=1" />
+</a>
+<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&theme=radical&line_height=27" alt="Lester's github stats" />
+</a>
+<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=LesterAGarciaA97.github.io&theme=radical" />
+</a>
