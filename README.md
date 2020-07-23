@@ -7,7 +7,7 @@
 
 Hi, I'm Lester García (https://lesteragarciaa97.github.io), a passionate junior software developer from Guatemala.
 
-## I am passionate about:
+## I am passionate about
 
 - QA analysis
 - JAVA development
