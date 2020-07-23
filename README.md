@@ -48,8 +48,6 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
 
 ## My stats
 
-</br>
-
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
