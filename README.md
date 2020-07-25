@@ -65,3 +65,10 @@ Hi, I'm Lester García (https://lesteragarciaa97.github.io), a passionate junior
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=dark" />
 </a>
+
+## My visitors
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
