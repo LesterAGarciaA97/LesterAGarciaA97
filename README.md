@@ -69,6 +69,6 @@ Hi, I'm Lester García (https://lesteragarciaa97.github.io), a passionate junior
 ## My visitors
 
 <p align="center"> 
-  Visitor count<br>
+  Visitors count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
