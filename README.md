@@ -43,8 +43,6 @@ Hi, I'm Lester García (https://lesteragarciaa97.github.io), a passionate junior
 </details>
 </br>
 
-<a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
-
 ## My stats
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
