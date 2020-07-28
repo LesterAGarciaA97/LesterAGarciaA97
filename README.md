@@ -64,10 +64,10 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
 
 ## More about me
 
-- 🔭 I’m currently working on SQL, React, Java, Python, etc 💻.
+- 🔭 I’m currently working on SQL, React, Java, Python, C#, etc 💻.
 - 📊 I’m currently learning Full Stack Development and reinforcing knowledge of database and QA analysis 🚀.
-- 🤝 I’m looking to collaborate on any Open Source Project involving Java, C#, VB .NET, JavaScript.
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, Nodejs, Expressjs, MySQL, SQL Server, Git, Docker, etc.
+- 🤝 I’m looking to collaborate on any Open Source Project involving Java, C#, VB .NET, JavaScript, etc.
+- 💻 I have worked on C#, Java, Python, HTML/CSS, Javascript, Nodejs, Expressjs, MySQL, SQL Server, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⭐ Show some ❤️ by starring ⭐ some of the repositories that you like or find interesting, I will be happy to do the same!
 
