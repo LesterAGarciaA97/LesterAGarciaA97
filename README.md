@@ -44,7 +44,6 @@ Hi, I'm Lester García (https://lesteragarciaa97.github.io), a passionate junior
 </br>
 
 <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## My stats
 
@@ -93,4 +92,4 @@ Hi, I'm Lester García (https://lesteragarciaa97.github.io), a passionate junior
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
-### Show some ❤️ by starring some of the repositories!
+## Show some ❤️ by starring some of the repositories!
