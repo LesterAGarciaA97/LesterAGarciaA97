@@ -41,7 +41,6 @@ Hi, I'm Lester García (https://lesteragarciaa97.github.io), a passionate junior
         <li>Elementary OS</li>
 	</ul>
 </details>
-</br>
 
 ## My stats
 
