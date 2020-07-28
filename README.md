@@ -20,7 +20,6 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/ -C%23-green" /> <img src="https://img.shields.io/badge/ -VB%20.NET-blue" />
 <img src="https://img.shields.io/badge/ -Photoshop-blue" />
 
-</br>
 <details>
 	<summary>Tools</summary>
 	<ul>
