@@ -72,3 +72,25 @@ Hi, I'm Lester García (https://lesteragarciaa97.github.io), a passionate junior
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
+
+## More about me
+
+- 🔭 I’m currently working on SQL, React, Java, Python, etc 💻.
+- 🌱 I’m currently learning Full Stack Development and reinforcing knowledge of database and QA analysis 🚀.
+- 👯 I’m looking to collaborate on any Open Source Project involving Java, C#, VB .NET, JavaScript.
+- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, Nodejs, Expressjs, MySQL, SQL Server, Git, Docker, etc.
+- 💬 Ask me about anything! I am happy to help and guide you.
+
+## Contact me
+
+<a href="https://www.linkedin.com/in/lester-andrés-garcía-aquino-134375198">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/lagarciaaq97">
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="mailto:lagarcia2015url@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+
+### Show some ❤️ by starring some of the repositories!
