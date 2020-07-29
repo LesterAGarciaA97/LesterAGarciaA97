@@ -49,7 +49,7 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=dark" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><a href="https://github.com/LesterAGarciaA97/github-readme-stats">
+<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&theme=dark&line_height=27" alt="Lester's github stats" />
 </a> &nbsp;
 
@@ -57,7 +57,7 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=dark" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/LesterAGarciaA97/lesteragarciaa97.github.io">
+<br><a href="https://github.com/LesterAGarciaA97/lesteragarciaa97.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=dark" />
 </a>
 
