@@ -73,7 +73,7 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
 ## My visitors
 
 <p align="center"> 
-  Visitors count<br>
+  Visitors count
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
