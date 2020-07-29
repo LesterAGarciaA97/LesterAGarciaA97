@@ -77,7 +77,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-## Contact me
+## Connect with me
 
 <a href="https://www.linkedin.com/in/lester-andrés-garcía-aquino-134375198">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
