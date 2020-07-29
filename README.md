@@ -46,18 +46,18 @@ Hi, I'm Lester García, a passionate junior software developer from Guatemala.
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=dark" />
 </a>
-<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=radical" />
-</a>
-<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
 
+<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&theme=dark&line_height=27" alt="Lester's github stats" />
+</a>
+
+<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=dark" />
-</a>    
-<a href="https://github.com/LesterAGarciaA97/lesteragarciaa97.github.io">
+</a> 
 
+<a href="https://github.com/LesterAGarciaA97/lesteragarciaa97.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=dark" />
 </a>
 
