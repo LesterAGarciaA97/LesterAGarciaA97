@@ -5,7 +5,7 @@
 
 # 🖥 Junior software developer
 
-Hi, I'm Lester García, a passionate junior software developer from Guatemala.
+Hi, I am Lester García, a passionate junior software developer from Guatemala.
 
 ## I am passionate about
 
