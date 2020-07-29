@@ -50,15 +50,15 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&theme=dark&line_height=27" alt="Lester's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&theme=tokyonight&line_height=27" alt="Lester's github stats" />
 </a> &nbsp;
 
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=tokyonight" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/LesterAGarciaA97/lesteragarciaa97.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=tokyonight" />
 </a>
 
 ## More about me
