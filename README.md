@@ -63,10 +63,10 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 ## More about me
 
-- 🔭 I’m currently working on SQL, Java, Python, C#, etc 💻.
+- 🔭 I’m currently working on SQL, Java, Python, C# and many others. 💻.
 - 📊 I’m currently learning Full Stack Development and reinforcing knowledge of database and QA analysis 🚀.
 - 🤝 I’m looking to collaborate on any Open Source Project involving Java, C#, VB .NET, JavaScript, etc.
-- 💻 I have worked on C#, Java, Python, HTML/CSS, Javascript, Nodejs, Expressjs, MySQL, SQL Server, Git, Docker, etc.
+- 💻 I have worked on C#, Java, Python, HTML/CSS, Javascript, Nodejs, Expressjs, MySQL, SQL Server, Git, Docker and many others.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⭐ Show some ❤️ by starring ⭐ some of the repositories that you like or find interesting, I will be happy to do the same!
 
