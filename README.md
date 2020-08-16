@@ -1,7 +1,6 @@
 ### Hi there developers 👋
 
-<!--
-**LesterAGarciaA97/LesterAGarciaA97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+### LesterAGarciaA97/LesterAGarciaA97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 🖥 Junior software developer
 
