@@ -1,4 +1,4 @@
-### Hi there developers 👋
+### Hi there developers 👋🤓
 
 <!-- ### **LesterAGarciaA97/LesterAGarciaA97** is a ✨ _special_ ✨ repository because it is a `README.md` (this file) thats why it appears on my GitHub profile. -->
 
