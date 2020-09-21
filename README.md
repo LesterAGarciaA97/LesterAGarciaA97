@@ -37,6 +37,8 @@ Hi, I am Lester García, a passionate junior software developer from Guatemala.
         <li>Ubuntu</li>
         <li>Fedora</li>
         <li>Elementary OS</li>
+	<li>Pop OS!</li>
+	<li>Kali Linux</li>
 	</ul>
 </details>
 
