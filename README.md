@@ -2,9 +2,9 @@
 
 <!-- ### **LesterAGarciaA97/LesterAGarciaA97** is a ✨ _special_ ✨ repository because it is a `README.md` (this file) thats why it appears on my GitHub profile. -->
 
-# 🖥 Junior software developer and junior QA Analyst
+# 🖥 Junior software developer and junior QA analyst
 
-Hi, I am Lester García, a passionate junior software developer from Guatemala.
+Hi, I am Lester García, a passionate junior software developer and a junior QA analyst from Guatemala.
 
 ## I am passionate about
 
