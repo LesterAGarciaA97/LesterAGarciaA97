@@ -15,9 +15,9 @@ Hi, I am Lester García, a passionate junior software developer and a junior QA 
 
 ## Skills
 
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" />
-<img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/ -C%23-green" /> <img src="https://img.shields.io/badge/ -VB%20.NET-blue" />
-<img src="https://img.shields.io/badge/ -Photoshop-blue" />
+<img src="https://img.shields.io/badge/HTML5-ff7851"/> <img src="https://img.shields.io/badge/CSS3-44b2fb"/> <img src="https://img.shields.io/badge/JavaScript -ffc742"/>
+<img src="https://img.shields.io/badge/JAVA -FF0000"/> <img src="https://img.shields.io/badge/ -C%23-green"/> <img src="https://img.shields.io/badge/ -VB%20.NET-blue"/>
+<img src="https://img.shields.io/badge/ -Photoshop-blue"/>
 
 <details>
 	<summary>Tools</summary>
@@ -47,7 +47,7 @@ Hi, I am Lester García, a passionate junior software developer and a junior QA 
 NOTE: Top languages does not indicate my skill level or something like that, it is a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><a href="https://github.com/LesterAGarciaA97/github-readme-stats">
@@ -55,11 +55,11 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 </a> &nbsp;
 
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=tokyonight"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/LesterAGarciaA97/lesteragarciaa97.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=tokyonight"/>
 </a>
 
 ## More about me
