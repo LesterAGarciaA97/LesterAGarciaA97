@@ -62,6 +62,10 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=tokyonight" />
 </a>
 
+## Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## More about me
 
 - 🔭 I’m currently working on SQL, Java, Python, C# and many others. 💻
