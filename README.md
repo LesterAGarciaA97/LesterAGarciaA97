@@ -2,14 +2,14 @@
 
 <!-- ### **LesterAGarciaA97/LesterAGarciaA97** is a ✨ _special_ ✨ repository because it is a `README.md` (this file) thats why it appears on my GitHub profile. -->
 
-# 🖥 Junior software developer and junior QA analyst
-
-Hi, I am Lester García, a passionate junior software developer and a junior QA analyst from Guatemala.
-
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
 </div>
+
+# 🖥 Junior software developer and junior QA analyst
+
+Hi, I am Lester García, a passionate junior software developer and a junior QA analyst from Guatemala.
 
 ## I am passionate about
 
