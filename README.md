@@ -83,6 +83,13 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
+<br>
+
+## You can imagine it, you can program it!
+
+ <div align="center">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
+</div>
 
 ## Connect with me
 
@@ -95,10 +102,3 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   <a href="mailto:lagarcia2015url@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
- <br>
-
-## You can imagine it, you can program it!
-
- <div align="center">
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
-</div>
