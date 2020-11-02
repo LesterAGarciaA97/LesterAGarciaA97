@@ -2,6 +2,13 @@
 
 <!-- ### **LesterAGarciaA97/LesterAGarciaA97** is a ✨ _special_ ✨ repository because it is a `README.md` (this file) thats why it appears on my GitHub profile. -->
 
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<br>
+    	<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
+</div>
+
 # 🖥 Junior software developer and junior QA analyst
 
 Hi, I am Lester García, a passionate junior software developer and a junior QA analyst from Guatemala.
