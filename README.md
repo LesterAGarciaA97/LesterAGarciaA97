@@ -66,7 +66,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 ## Github Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## More about me
 
