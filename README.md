@@ -97,8 +97,8 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   </a>
   
   ##
-  
-  <div align="center">
-	<br>
+ <br>
+ <br>
+ <div align="center">
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
 </div>
