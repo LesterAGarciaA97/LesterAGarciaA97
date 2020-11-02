@@ -84,11 +84,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
-</div>
-
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/lester-andrés-garcía-aquino-134375198">
@@ -100,3 +95,10 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   <a href="mailto:lagarcia2015url@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  
+  ##
+  
+  <div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
+</div>
