@@ -83,7 +83,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
-<br>
 
 ## You can imagine it, you can program it!
 
