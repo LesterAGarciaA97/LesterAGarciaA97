@@ -77,17 +77,17 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 - 💬 Ask me about anything! I am happy to help and guide you, I can learn from you too.
 - ⭐ Show some ❤️ by starring ⭐ some of the repositories that you like or find interesting, I will be happy to do the same!
 
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
-</div>
-
 ## My visitors
 
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
+</div>
 
 ## Connect with me
 
