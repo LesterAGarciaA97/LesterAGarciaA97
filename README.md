@@ -6,7 +6,7 @@
 
 # 🖥 Junior software developer and junior QA analyst
 
-Hi, I am Lester García, a passionate junior software developer and a junior QA analyst from Guatemala.
+I am Lester García, a passionate junior software developer and a junior QA analyst from Guatemala.
 
 ## I am passionate about
 
