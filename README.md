@@ -102,6 +102,3 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   <a href="mailto:lagarcia2015url@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LesterAGarciaA97)](https://github.com/LesterAGarciaA97/github-readme-stats)
