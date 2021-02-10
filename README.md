@@ -108,3 +108,12 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   <a href="https://github.com/LesterAGarciaA97">
     <img align="left" alt="Shubhamdeep Jha | GitHub" width="26px" src="icons/GitHub.svg" />
   </a>
+  <a href="https://gitlab.com/lgarciaa97">
+    <img align="left" alt="Shubhamdeep Jha | GitLab" width="26px" src="icons/GitLab.svg" />
+  </a>
+    <a href="https://bitbucket.org/LesterAGarciaA97/">
+    <img align="left" alt="Shubhamdeep Jha | BitBucket" width="26px" src="icons/BitBucket.svg" />
+  </a>
+    <a href="https://stackoverflow.com/users/15180333/lester-garc%c3%ada">
+    <img align="left" alt="Shubhamdeep Jha | Stack Overflow" width="26px" src="icons/StackOverflow.svg" />
+  </a>
