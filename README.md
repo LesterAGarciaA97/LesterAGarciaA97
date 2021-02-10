@@ -105,6 +105,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 ## Stargazers
 
-[![Stargazers repo roster for @viralvaghela/viralvaghela](https://reporoster.com/stars/viralvaghela/viralvaghela)](https://github.com/viralvaghela/viralvaghela/stargazers)
+[![Stargazers repo roster for @LesterAGarciaA97/LesterAGarciaA97](https://reporoster.com/stars/LesterAGarciaA97/LesterAGarciaA97)](https://github.com/LesterAGarciaA97/LesterAGarciaA97/stargazers)
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=4f0pk3xk5utgsr6kzjpcpcf9k&count=1)
