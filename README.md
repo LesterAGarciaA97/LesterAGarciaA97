@@ -102,9 +102,3 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   <a href="mailto:lagarcia2015url@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-
-## Stargazers
-
-[![Stargazers repo roster for @LesterAGarciaA97/LesterAGarciaA97](https://reporoster.com/stars/LesterAGarciaA97/LesterAGarciaA97)](https://github.com/LesterAGarciaA97/LesterAGarciaA97/stargazers)
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=4f0pk3xk5utgsr6kzjpcpcf9k&count=1)
