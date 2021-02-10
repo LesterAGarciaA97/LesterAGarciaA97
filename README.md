@@ -105,3 +105,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   <a href="https://dev.to/lesteragarciaa97">
     <img align="left" alt="Shubhamdeep Jha | Dev.to" width="26px" src="icons/Dev.svg" />
   </a>
+  <a href="https://github.com/LesterAGarciaA97">
+    <img align="left" alt="Shubhamdeep Jha | GitHub" width="26px" src="icons/GitHub.svg" />
+  </a>
