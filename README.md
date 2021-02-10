@@ -115,5 +115,5 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
     <img align="left" alt="Shubhamdeep Jha | BitBucket" width="26px" src="icons/BitBucket.svg" />
   </a>
     <a href="https://stackoverflow.com/users/15180333/lester-garc%c3%ada">
-    <img align="left" alt="Shubhamdeep Jha | Stack Overflow" width="42px" src="icons/StackOverflow.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Stack Overflow" width="40px" src="icons/StackOverflow.svg" />
   </a>
