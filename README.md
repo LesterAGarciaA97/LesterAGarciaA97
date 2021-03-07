@@ -70,7 +70,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Wakatime stats
-[![Lester Garcia wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LesterAGarciaA97)](https://github.com/LesterAGarciaA97/github-readme-stats&theme=tokyonight)
+[![Lester Garcia wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LesterAGarciaA97)](https://github.com/LesterAGarciaA97/github-readme-stats)
 
 ## More about me...
 
