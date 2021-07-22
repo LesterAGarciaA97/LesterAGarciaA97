@@ -60,15 +60,17 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Lester's GitHub stats" />
 </a> &nbsp;&nbsp;
 
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=tokyonight" alt="lesteragarciaa97" /></a> &nbsp;
+<a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=tokyonight" alt="lesteragarciaa97" />
+</a> &nbsp;&nbsp;
 
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=tokyonight" />
-</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a> &nbsp;&nbsp;
 
 <a href="https://github.com/LesterAGarciaA97/lesteragarciaa97.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=tokyonight" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a> &nbsp;&nbsp;
 
 ## Github Profile Trophy
 
