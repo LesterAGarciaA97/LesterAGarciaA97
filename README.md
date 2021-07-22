@@ -66,7 +66,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=tokyonight" />
-</a> &nbsp;&nbsp;
+</a>
 
 <a href="https://github.com/LesterAGarciaA97/lesteragarciaa97.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=tokyonight" />
