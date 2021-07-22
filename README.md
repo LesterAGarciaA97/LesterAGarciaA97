@@ -72,7 +72,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 ## Github Profile Trophy
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LesterAGarciaA97&theme=onedark)](https://github.com/LordDashMe/github-contribution-stats/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&&theme=dark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Wakatime stats
 [![Lester's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LesterAGarciaA97)]
