@@ -2,10 +2,10 @@
 
 <!-- ### **LesterAGarciaA97/LesterAGarciaA97** is a ✨ _special_ ✨ repository because it is a `README.md` (this file) thats why it appears on my GitHub profile. -->
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
 ![GitHub followers](https://img.shields.io/github/followers/LesterAGarciaA97?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=LesterAGarciaA97.LesterAGarciaA97)
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 # 🖥 Junior software developer and junior QA analyst
 
