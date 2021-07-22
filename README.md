@@ -4,6 +4,11 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
+<p><em>BI QA Analyst at <a href="https://www.ezcorp.com/overview/default.aspx">EZCORP</a></em></p>
+
+![GitHub followers](https://img.shields.io/github/followers/LesterAGarciaA97?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=LesterAGarciaA97.LesterAGarciaA97)
+
 # 🖥 Junior software developer and junior QA analyst
 
 I am Lester García, a passionate junior software developer and a junior QA analyst from Guatemala.
