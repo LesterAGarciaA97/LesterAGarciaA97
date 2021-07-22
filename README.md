@@ -10,7 +10,7 @@
 
 I am Lester García, a passionate junior software developer and a junior QA analyst from Guatemala.
 
-<p><em>BI QA Analyst at <a href="https://www.ezcorp.com/overview/default.aspx">EZCORP</a></em></p>
+<p>BI QA Analyst at <a href="https://www.ezcorp.com/overview/default.aspx">EZCORP</a></p>
 
 ## I am passionate about
 
