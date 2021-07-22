@@ -67,9 +67,9 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 <a href="https://github.com/LesterAGarciaA97/lesteragarciaa97.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=tokyonight" />
-</a>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=onedark" alt="lesteragarciaa97" /></p>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=tokyonight" alt="lesteragarciaa97" /></a>
 
 ## Github Profile Trophy
 
