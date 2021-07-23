@@ -68,9 +68,6 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 <a href="https://angular.io" target="_blank">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </a>&nbsp;&nbsp;
-<a href="https://angular.io" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
-</a>&nbsp;&nbsp;
 <a href="https://backbonejs.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/>
 </a>&nbsp;&nbsp;
@@ -107,8 +104,6 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
 </a>&nbsp;&nbsp;
 <a href="https://webpack.js.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-</a>&nbsp;&nbsp;
 </p>
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" />
