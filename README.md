@@ -225,6 +225,29 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 </a>
 </p>
 
+### Devops
+
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://azure.microsoft.com/en-in/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://cloud.google.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.jenkins.io" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://kubernetes.io" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+</a>
+</p>
+
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" />
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/ -C%23-green" /> <img src="https://img.shields.io/badge/ -VB%20.NET-blue" />
 <img src="https://img.shields.io/badge/ -Photoshop-blue" />
