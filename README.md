@@ -27,28 +27,14 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
-<a href="https://clojure.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/>
-</a>
-<a href="https://offeescript.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/>
-</a>
 <a href="https://www.w3schools.com/cpp/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/cs/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a>
-<a href="https://elixir-lang.org" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/>
-</a> <a href="https://www.erlang.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/>
-</a>
 <a href="https://golang.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-</a>
-<a href="https://www.haskell.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
 </a>
 <a href="https://www.java.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -59,8 +45,6 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/>
 </a>
-<a href="https://www.perl.org/" target="_blank"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/>
-</a>
 <a href="https://www.php.net" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a>
@@ -70,12 +54,6 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 <a href="https://www.ruby-lang.org/en/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 </a>
-<a href="https://www.rust-lang.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-</a>
-<a href="https://www.scala-lang.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
-</a>
 <a href="https://developer.apple.com/swift/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 </a>
@@ -83,7 +61,6 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 </p>
-
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" />
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/ -C%23-green" /> <img src="https://img.shields.io/badge/ -VB%20.NET-blue" />
