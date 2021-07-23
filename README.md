@@ -282,6 +282,32 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 </a>
 </p>
 
+### Testing
+
+<p align="left">
+<a href="https://www.cypress.io" target="_blank">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://jasmine.github.io/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://jestjs.io" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://karma-runner.github.io/latest/index.html" target="_blank">
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://mochajs.org" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/puppeteer/puppeteer" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.selenium.dev" target="_blank">
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+</a>
+</p>
+
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" />
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/ -C%23-green" /> <img src="https://img.shields.io/badge/ -VB%20.NET-blue" />
 <img src="https://img.shields.io/badge/ -Photoshop-blue" />
