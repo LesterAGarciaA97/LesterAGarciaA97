@@ -110,9 +110,6 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 ### Backend development
 
 <p align="left">
-<a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>&nbsp;&nbsp;
 <a href="https://graphql.org" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 </a>
@@ -127,6 +124,9 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 </a>&nbsp;&nbsp;
 <a href="https://spring.io/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://expressjs.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a>
 </p>
 
