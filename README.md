@@ -308,6 +308,35 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 </a>
 </p>
 
+### Other software
+
+<p align="left">
+<a href="https://www.blender.org/" target="_blank">
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.mathworks.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.photoshop.com/en" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://postman.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.sketch.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/products/xd.html" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+</a>
+</p>
+
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" />
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/ -C%23-green" /> <img src="https://img.shields.io/badge/ -VB%20.NET-blue" />
 <img src="https://img.shields.io/badge/ -Photoshop-blue" />
