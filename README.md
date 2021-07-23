@@ -208,6 +208,26 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 </a>
 </p>
 
+### Data visualization
+
+<p align="left">
+<a href="https://canvasjs.com" target="_blank">
+<img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.chartjs.org" target="_blank">
+<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://d3js.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://grafana.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.elastic.co/kibana" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+</a>
+</p>
+
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" />
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/ -C%23-green" /> <img src="https://img.shields.io/badge/ -VB%20.NET-blue" />
 <img src="https://img.shields.io/badge/ -Photoshop-blue" />
