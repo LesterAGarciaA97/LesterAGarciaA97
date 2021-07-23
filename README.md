@@ -354,6 +354,20 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 </a>
 </p>
 
+### Other
+
+<p align="left">
+<a href="https://www.arduino.cc/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+</p>
+
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" />
 <img src="https://img.shields.io/badge/JAVA -FF0000" /> <img src="https://img.shields.io/badge/ -C%23-green" /> <img src="https://img.shields.io/badge/ -VB%20.NET-blue" />
 <img src="https://img.shields.io/badge/ -Photoshop-blue" />
