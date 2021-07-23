@@ -112,7 +112,7 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 <p align="left">
 <a href="https://graphql.org" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://hadoop.apache.org/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
 </a>&nbsp;&nbsp;
