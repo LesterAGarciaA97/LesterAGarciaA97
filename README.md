@@ -405,6 +405,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=tokyonight" alt="LesterAGarciaA97" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&" alt="lesteragarciaa97" />
 </a>
 
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
