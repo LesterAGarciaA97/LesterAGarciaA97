@@ -400,11 +400,11 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 [![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=tokyonight&" alt="LesterAGarciaA97" />(https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=tokyonight&" alt="LesterAGarciaA97" />
 </a>
 
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=tokyonight" />(https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=tokyonight" />
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">
