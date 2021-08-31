@@ -400,7 +400,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 [![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  <a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=tokyonight&" alt="lesteragarciaa97" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=tokyonight&" alt="LesterAGarciaA97" />
 </a>
 
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
@@ -413,7 +413,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 ## Github Profile Trophy
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LesterAGarciaA97)](https://github.com/LordDashMe/github-contribution-stats/)&nbsp;&nbsp;&nbsp;
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LesterAGarciaA97)](https://github.com/LordDashMe/github-contribution-stats/) &nbsp;&nbsp;&nbsp;
 [![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Wakatime stats
