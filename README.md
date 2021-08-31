@@ -416,7 +416,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 ## Wakatime stats
 
-[![Lester's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LesterAGarciaA97&layout=compact&theme=tokyonight)](https://github.com/LesterAGarciaA97/github-readme-stats)
+![Lester's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LesterAGarciaA97&layout=compact&theme=tokyonight)
 
 ## More about me...
 
