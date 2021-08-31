@@ -411,8 +411,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 ## Github Profile Trophy
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LesterAGarciaA97)](https://github.com/LordDashMe/github-contribution-stats/)
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LesterAGarciaA97)](https://github.com/LordDashMe/github-contribution-stats/)&nbsp;&nbsp;
 [![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Wakatime stats
@@ -438,7 +437,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 ## "You can imagine it, you can program it!"
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="115" height="115">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="110" height="110">
 </p>
 
 ## Connect with me
