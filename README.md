@@ -397,7 +397,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight)
 
-![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 ![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&include_all_commits=true&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LesterAGarciaA97&theme=tokyonight)](https://git.io/streak-stats)
@@ -438,7 +437,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 ## "You can imagine it, you can program it!"
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="115" height="115">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="110" height="110">
 </p>
 
 ## Connect with me
