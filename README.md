@@ -395,31 +395,17 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 
 NOTE: Top languages does not indicate my skill level or something like that, it is a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=tokyonight&" alt="LesterAGarciaA97" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LesterAGarciaA97&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 
-<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=tokyonight" />
-</a>&nbsp;&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=material-palenight" />
+</a>
 
-<a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=LesterAGarciaA97.github.io&theme=tokyonight" />
-</a>&nbsp;&nbsp;
-
-## Github Profile Trophy
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LesterAGarciaA97)](https://github.com/LordDashMe/github-contribution-stats/)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## Wakatime stats
-[![Lester's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LesterAGarciaA97&layout=compact&theme=tokyonight)](https://github.com/LesterAGarciaA97/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&theme=material-palenight" />
+</a>
 
 ## More about me...
 
