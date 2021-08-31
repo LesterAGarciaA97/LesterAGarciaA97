@@ -395,10 +395,8 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 
 NOTE: Top languages does not indicate my skill level or something like that, it is a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-<a>
-<!--<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight" />-->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight)](https://github.com/LesterAGarciaA97/github-readme-stats)
+<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight" />
 </a>
 
 </br><a href="https://github.com/LesterAGarciaA97/github-readme-stats">
