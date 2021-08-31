@@ -403,7 +403,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Lester's GitHub stats" />
 </a> </br>
 
-</br> <a>
+ <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=tokyonight&" alt="LesterAGarciaA97" />
 </a>
 
