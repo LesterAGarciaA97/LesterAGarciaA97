@@ -397,9 +397,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight)](https://github.com/LesterAGarciaA97/github-readme-stats)
 
-</br> <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Lester's GitHub stats" />
-</a> </br>
+![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&include_all_commits=true&show_icons=true&theme=tokyonight))
 
  <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=tokyonight&" alt="LesterAGarciaA97" />
