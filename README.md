@@ -399,7 +399,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 ![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LesterAGarciaA97&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LesterAGarciaA97&theme=tokyonight)](https://git.io/streak-stats)
 
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&show_owner=true&theme=tokyonight" />
@@ -411,21 +411,13 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 ## Github Profile Trophy
 
-<a>
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LesterAGarciaA97)](https://github.com/LordDashMe/github-contribution-stats/)
-</a>
 
-<a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-</a>
-
 
 ## Wakatime stats
 
-<a>
 [![Lester's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LesterAGarciaA97&layout=compact&theme=tokyonight)](https://github.com/LesterAGarciaA97/github-readme-stats)
-<a>
-
 
 ## More about me...
 
