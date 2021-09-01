@@ -402,9 +402,10 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 ![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&include_all_commits=true&show_icons=true&theme=tokyonight)
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&" alt="lesteragarciaa97" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lesteragarciaa97&show_icons=true&locale=en&layout=compact" alt="lesteragarciaa97" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lesteragarciaa97&show_icons=true&locale=en&include_all_commits=true" alt="lesteragarciaa97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesteragarciaa97&show_icons=true&locale=en" alt="lesteragarciaa97" /></p>
 
