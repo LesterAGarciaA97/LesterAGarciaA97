@@ -404,6 +404,10 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&" alt="lesteragarciaa97" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lesteragarciaa97&show_icons=true&locale=en&layout=compact" alt="lesteragarciaa97" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesteragarciaa97&show_icons=true&locale=en" alt="lesteragarciaa97" /></p>
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LesterAGarciaA97&theme=tokyonight)](https://git.io/streak-stats) -->
 
 <a href="https://github.com/lesteragarciaa97/github-readme-stats">
