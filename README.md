@@ -447,7 +447,7 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 ## "You can imagine it, you can program it!"
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="115" height="115">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="120" height="120">
 </p>
 
 ## Connect with me
