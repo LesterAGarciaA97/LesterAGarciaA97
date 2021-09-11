@@ -400,10 +400,10 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 <!--LesterAGarciaA97-->
 <!--lesteragarciaa97-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesteragarciaa97&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesteragarciaa97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="LesterAGarciaA97" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="LesterAGarciaA97" /></p>
 <!-- ![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&include_all_commits=true&show_icons=true&theme=tokyonight) -->
 
 
