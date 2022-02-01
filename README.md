@@ -248,7 +248,7 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 </a>
 </p>
 
-### Backend as a Service(BaaS)
+### Backend as a Service (BaaS)
 
 <p align="left">
 <a href="https://firebase.google.com/" target="_blank">
