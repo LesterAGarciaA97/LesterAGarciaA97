@@ -400,23 +400,23 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 <!--LesterAGarciaA97-->
 <!--lesteragarciaa97-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesteragarciaa97&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesteragarciaa97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="lesteragarciaa97" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="lesteragarciaa97" /></p>
 <!-- ![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&include_all_commits=true&show_icons=true&theme=tokyonight) -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=tokyonight" alt="lesteragarciaa97" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=tokyonight" alt="LesterAGarciaA97" /></p>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LesterAGarciaA97&theme=tokyonight)](https://git.io/streak-stats) -->
 
 
-<a href="https://github.com/lesteragarciaa97/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lesteragarciaa97&repo=github-readme-stats&show_owner=true&theme=tokyonight" />
+<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&show_owner=true&theme=tokyonight" />
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/lesteragarciaa97/lesteragarciaa97.github.io">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lesteragarciaa97&repo=lesteragarciaa97.github.io&theme=tokyonight" />
+<a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=lesteragarciaa97.github.io&theme=tokyonight" />
 </a>&nbsp;&nbsp;
 
 ## Github Profile Trophy
