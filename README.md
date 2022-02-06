@@ -420,15 +420,15 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LesterAGarciaA97&theme=tokyonight)](https://git.io/streak-stats) -->
 
 
-<!-- <a href="https://github.com/LesterAGarciaA97/github-readme-stats">  -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&show_owner=true&theme=tokyonight" />  -->
-<!-- </a>&nbsp;&nbsp;  -->
-
-<!-- <a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">  -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=LesterAGarciaA97.github.io&theme=tokyonight" />  -->
-<!-- </a>&nbsp;&nbsp;  -->
-
 <!--  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&show_owner=true&theme=tokyonight" />
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=LesterAGarciaA97.github.io&theme=tokyonight" />
+</a>&nbsp;&nbsp;
 
 ## Github Profile Trophy
 
