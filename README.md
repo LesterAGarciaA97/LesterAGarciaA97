@@ -443,6 +443,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 # Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LesterAGarciaA97&theme=dracula&hide_border=true)
 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 ## Wakatime stats
 
 ![Lester's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LesterAGarciaA97&layout=compact&theme=tokyonight)
