@@ -397,11 +397,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 At some point the data displayed here will not be updated, sometimes it takes time for the view of the widgets to update.
 
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LesterAGarciaA97&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="LesterAGarciaA97" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="LesterAGarciaA97" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=highcontrast&hide_border=true" alt="LesterAGarciaA97" />
-
 <!--LesterAGarciaA97-->
 <!--lesteragarciaa97-->
 
@@ -412,7 +407,8 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 <!-- ![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&include_all_commits=true&show_icons=true&theme=tokyonight) -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&" alt="lesteragarciaa97" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&" alt="lesteragarciaa97" /></p>  -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=highcontrast&hide_border=false" alt="LesterAGarciaA97" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=tokyonight" alt="lesteragarciaa97" /></p>  -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LesterAGarciaA97&theme=tokyonight)](https://git.io/streak-stats) -->
 
