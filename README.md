@@ -431,7 +431,7 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=LesterAGarciaA97.github.io&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=LesterAGarciaA97.github.io&theme=tokyonight" />
 </a>&nbsp;&nbsp;
 </p>
 
