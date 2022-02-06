@@ -397,34 +397,38 @@ NOTE: Top languages does not indicate my skill level or something like that, it 
 
 At some point the data displayed here will not be updated, sometimes it takes time for the view of the widgets to update.
 
-<p align="center">
-<img width="40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight" alt="LesterAGarciaA97" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="LesterAGarciaA97" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=highcontrast&hide_border=false" alt="LesterAGarciaA97" />
-</p>
-
 <!--LesterAGarciaA97-->
 <!--lesteragarciaa97-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight)
+<p align="center">
+<img width="40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight" alt="LesterAGarciaA97" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="LesterAGarciaA97" />&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=highcontrast&hide_border=false" alt="LesterAGarciaA97" />
+</p>
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="LesterAGarciaA97" /></a>
+<!--  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight)  -->
+
+<!-- <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="LesterAGarciaA97" /></a>  -->
 <!-- ![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&include_all_commits=true&show_icons=true&theme=tokyonight) -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=highcontrast&hide_border=false" alt="LesterAGarciaA97" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=highcontrast&hide_border=false" alt="LesterAGarciaA97" /></p>  -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&" alt="lesteragarciaa97" /></p>  -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=tokyonight" alt="lesteragarciaa97" /></p>  -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LesterAGarciaA97&theme=tokyonight)](https://git.io/streak-stats) -->
 
 
-<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&show_owner=true&theme=tokyonight" />
-</a>&nbsp;&nbsp;
+<!-- <a href="https://github.com/LesterAGarciaA97/github-readme-stats">  -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&show_owner=true&theme=tokyonight" />  -->
+<!-- </a>&nbsp;&nbsp;  -->
 
-<a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=LesterAGarciaA97.github.io&theme=tokyonight" />
-</a>&nbsp;&nbsp;
+<!-- <a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">  -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=LesterAGarciaA97.github.io&theme=tokyonight" />  -->
+<!-- </a>&nbsp;&nbsp;  -->
+
+<!--  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Github Profile Trophy
 
