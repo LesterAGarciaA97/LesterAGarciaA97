@@ -425,6 +425,9 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LesterAGarciaA97)](https://github.com/LordDashMe/github-contribution-stats/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+# Contribution graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LesterAGarciaA97&theme=dracula&hide_border=true)
+
 ## Wakatime stats
 
 ![Lester's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LesterAGarciaA97&layout=compact&theme=tokyonight)
