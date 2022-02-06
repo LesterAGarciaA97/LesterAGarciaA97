@@ -443,7 +443,7 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 # Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LesterAGarciaA97&theme=dracula&hide_border=true)
 
-
+## Recent activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#15](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/15) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
 2. ❌ Closed PR [#14](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/14) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
