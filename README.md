@@ -427,11 +427,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 <p align="center">
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&show_owner=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&show_owner=true&theme=tokyonight" />
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=LesterAGarciaA97.github.io&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=LesterAGarciaA97.github.io&theme=tokyonight" />
 </a>&nbsp;&nbsp;
 </p>
 
