@@ -445,11 +445,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/15) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
-2. ❌ Closed PR [#14](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/14) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
-3. ❌ Closed PR [#12](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/12) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
-4. ❌ Closed PR [#13](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/13) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
-5. ❌ Closed PR [#10](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/10) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
+1. ❌ Closed PR [#16](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/16) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
+2. ❌ Closed PR [#15](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/15) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
+3. ❌ Closed PR [#14](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/14) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
+4. ❌ Closed PR [#12](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/12) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
+5. ❌ Closed PR [#13](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/13) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
 <!--END_SECTION:activity-->
 
 
