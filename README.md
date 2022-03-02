@@ -445,11 +445,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/20) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-2. ❌ Closed PR [#26](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/26) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-3. ❌ Closed PR [#16](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/16) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
-4. ❌ Closed PR [#15](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/15) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
-5. ❌ Closed PR [#14](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/14) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
+1. ❌ Closed PR [#21](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/21) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+2. ❌ Closed PR [#27](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/27) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+3. ❌ Closed PR [#7](https://github.com/LesterAGarciaA97/github-slideshow/pull/7) in [LesterAGarciaA97/github-slideshow](https://github.com/LesterAGarciaA97/github-slideshow)
+4. ❌ Closed PR [#20](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/20) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+5. ❌ Closed PR [#26](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/26) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
 <!--END_SECTION:activity-->
 
 
