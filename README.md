@@ -445,11 +445,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/22) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-2. ❌ Closed PR [#28](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/28) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-3. ❌ Closed PR [#21](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/21) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-4. ❌ Closed PR [#27](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/27) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-5. ❌ Closed PR [#7](https://github.com/LesterAGarciaA97/github-slideshow/pull/7) in [LesterAGarciaA97/github-slideshow](https://github.com/LesterAGarciaA97/github-slideshow)
+1. ❌ Closed PR [#23](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/23) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+2. ❌ Closed PR [#29](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/29) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+3. ❌ Closed PR [#22](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/22) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+4. ❌ Closed PR [#28](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/28) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+5. ❌ Closed PR [#21](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/21) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
 <!--END_SECTION:activity-->
 
 
