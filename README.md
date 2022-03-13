@@ -14,7 +14,7 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 
 ## I am passionate about
 
-- QA analysis
+- QA testing
 - JAVA development
 - .NET development
 - Gaming
