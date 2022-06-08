@@ -441,15 +441,12 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 [![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Daily.dev Dev card
-<!--  <p align="center">
-	<a href="https://app.daily.dev/LesterAGarciaA">
-		<img src="https://github.com/LesterAGarciaA/LesterAGarciaA/blob/master/devcard.svg" width="300" alt="Lester Andrés García Aquino's Dev Card"/>
-	</a>
-</p> -->
 <p align="center">
 	<a href="https://app.daily.dev/LesterAGarciaA">
-		<img src="https://github.com/LesterAGarciaA/LesterAGarciaA/blob/master/devcard.svg" width="300" alt="Lester Andrés García Aquino's Dev Card"/>
+		<img src="https://github.com/LesterAGarciaA/LesterAGarciaA/raw/master/assets/github-header.png" width="300" alt="Lester Andrés García Aquino's Dev Card"/>
 	</a>
+	<!-- https://github.com/LesterAGarciaA/LesterAGarciaA/raw/master/assets/github-header.png
+	https://github.com/LesterAGarciaA/LesterAGarciaA/blob/master/devcard.svg -->
 </p>
 
 # Contribution graph
