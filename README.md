@@ -440,6 +440,9 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=LesterAGarciaA97)](https://github.com/LordDashMe/github-contribution-stats/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![trophy](https://github-profile-trophy.vercel.app/?username=LesterAGarciaA97&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Daily.dev Dev card
+<a href="https://app.daily.dev/LesterAGarciaA"><img src="https://api.daily.dev/devcards/9f91e740fb6f4f5a8d633760c5130cdd.png?r=a5j" width="400" alt="Lester Andrés García Aquino's Dev Card"/></a>
+
 # Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LesterAGarciaA97&theme=dracula&hide_border=true)
 
