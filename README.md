@@ -443,7 +443,7 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 ## Daily.dev Dev card
 <p align="center">
 	<a href="https://app.daily.dev/LesterAGarciaA">
-		<img src="https://api.daily.dev/devcards/9f91e740fb6f4f5a8d633760c5130cdd.png?r=a5j" width="300" alt="Lester Andrés García Aquino's Dev Card"/>
+		<img src="https://github.com/LesterAGarciaA/LesterAGarciaA/blob/master/devcard.svg" width="300" alt="Lester Andrés García Aquino's Dev Card"/>
 	</a>
 </p>
 
