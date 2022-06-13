@@ -444,7 +444,7 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 <p align="center">
 	<a href="https://app.daily.dev/LesterAGarciaA">
 		<!-- <img src="https://api.daily.dev/devcards/9f91e740fb6f4f5a8d633760c5130cdd.png?r=pmj" width="400" alt="Lester Andrés García Aquino's Dev Card"/> -->
-		<img src="https://github.com/LesterAGarciaA/LesterAGarciaA/blob/master/devcard.svg" width="200" alt="Lester Andrés García Aquino's Dev Card"/>
+		<img src="https://github.com/LesterAGarciaA97/LesterAGarciaA97/blob/master/devcard.svg" width="200" alt="Lester Andrés García Aquino's Dev Card"/>
 	</a>
 </p>
 
