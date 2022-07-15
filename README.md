@@ -452,11 +452,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/18) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
-2. ❌ Closed PR [#3](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2/pull/3) in [LesterAGarciaA97/EstructuraDeDatosII-LAB-2](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2)
-3. 🎉 Merged PR [#1](https://github.com/LesterAGarciaA97/LesterAGarciaA97/pull/1) in [LesterAGarciaA97/LesterAGarciaA97](https://github.com/LesterAGarciaA97/LesterAGarciaA97)
-4. 💪 Opened PR [#1](https://github.com/LesterAGarciaA97/LesterAGarciaA97/pull/1) in [LesterAGarciaA97/LesterAGarciaA97](https://github.com/LesterAGarciaA97/LesterAGarciaA97)
-5. ❌ Closed PR [#17](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/17) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
+1. ❌ Closed PR [#6](https://github.com/LesterAGarciaA97/ComputerArchitectureII/pull/6) in [LesterAGarciaA97/ComputerArchitectureII](https://github.com/LesterAGarciaA97/ComputerArchitectureII)
+2. ❌ Closed PR [#5](https://github.com/LesterAGarciaA97/ComputerArchitectureII/pull/5) in [LesterAGarciaA97/ComputerArchitectureII](https://github.com/LesterAGarciaA97/ComputerArchitectureII)
+3. ❌ Closed PR [#18](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/18) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
+4. ❌ Closed PR [#3](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2/pull/3) in [LesterAGarciaA97/EstructuraDeDatosII-LAB-2](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2)
+5. 🎉 Merged PR [#1](https://github.com/LesterAGarciaA97/LesterAGarciaA97/pull/1) in [LesterAGarciaA97/LesterAGarciaA97](https://github.com/LesterAGarciaA97/LesterAGarciaA97)
 <!--END_SECTION:activity-->
 
 
