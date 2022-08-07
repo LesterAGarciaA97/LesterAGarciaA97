@@ -355,27 +355,34 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 ### Testing
 
 <p align="left">
-<a href="https://www.cypress.io" target="_blank">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://jasmine.github.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://jestjs.io" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://karma-runner.github.io/latest/index.html" target="_blank">
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://mochajs.org" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/puppeteer/puppeteer" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.selenium.dev" target="_blank">
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-</a>
+<!-- Cypress
+	<a href="https://www.cypress.io" target="_blank">
+	<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- Jasmin
+	<a href="https://jasmine.github.io/" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- JestJS
+	<a href="https://jestjs.io" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- Karma
+	<a href="https://karma-runner.github.io/latest/index.html" target="_blank">
+	<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- MochaJS
+	<a href="https://mochajs.org" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- Puppeteer
+	<a href="https://github.com/puppeteer/puppeteer" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- Selenium -->
+	<a href="https://www.selenium.dev" target="_blank">
+	<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+	</a>
 </p>
 
 ### Other software
