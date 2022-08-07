@@ -446,15 +446,18 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 ### Other
 
 <p align="left">
-<a href="https://www.arduino.cc/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
+<!-- Arduino -->
+	<a href="https://www.arduino.cc/" target="_blank">
+	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+	</a>&nbsp;&nbsp;
+<!-- GIT -->
+	<a href="https://git-scm.com/" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+	</a>&nbsp;&nbsp;
+<!-- Linux -->
+	<a href="https://www.linux.org/" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+	</a>
 </p>
 
 <details>
@@ -498,7 +501,8 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 </p>
 
 
-<!--  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!-------------------------------------------------------------------------UNUSED CODE---------------------------------------------------------------------------------------->
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight)  -->
 
@@ -511,7 +515,8 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=tokyonight" alt="lesteragarciaa97" /></p>  -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LesterAGarciaA97&theme=tokyonight)](https://git.io/streak-stats) -->
 
-<!--  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<!-------------------------------------------------------------------------UNUSED CODE---------------------------------------------------------------------------------------->
 
 
 <p align="center">
@@ -532,7 +537,7 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 ## Daily.dev Dev card
 <p align="center">
 	<a href="https://app.daily.dev/LesterAGarciaA">
-		<img src="https://github.com/LesterAGarciaA97/LesterAGarciaA97/blob/master/devcard.svg" width="300" alt="Lester Andrés García Aquino's Dev Card"/>
+	<img src="https://github.com/LesterAGarciaA97/LesterAGarciaA97/blob/master/devcard.svg" width="300" alt="Lester Andrés García Aquino's Dev Card"/>
 	</a>
 </p>
 
@@ -547,7 +552,6 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 4. ❌ Closed PR [#18](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/18) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
 5. ❌ Closed PR [#3](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2/pull/3) in [LesterAGarciaA97/EstructuraDeDatosII-LAB-2](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2)
 <!--END_SECTION:activity-->
-
 
 ## Wakatime stats
 
