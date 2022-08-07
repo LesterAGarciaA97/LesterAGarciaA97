@@ -260,22 +260,26 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 	</a> -->
 </p>
 
-### Data visualization
+<!-- ### Data visualization
 
 <p align="left">
-<a href="https://www.chartjs.org" target="_blank">
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://d3js.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://grafana.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.elastic.co/kibana" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-</a>
-</p>
+<!-- ChartJS
+	<a href="https://www.chartjs.org" target="_blank">
+	<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+	</a>&nbsp;&nbsp;
+<!-- D3JS -->
+	<a href="https://d3js.org/" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
+	</a>&nbsp;&nbsp;
+<!-- Grafana
+	<a href="https://grafana.com" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+	</a>&nbsp;&nbsp;
+<!-- Elastic
+	<a href="https://www.elastic.co/kibana" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+	</a>
+</p> -->
 
 ### Devops
 
