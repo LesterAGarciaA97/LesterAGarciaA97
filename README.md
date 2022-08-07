@@ -135,24 +135,30 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 ### Backend development
 
 <p align="left">
-<a href="https://graphql.org" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://hadoop.apache.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.nginx.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://spring.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
+<!-- Graphql
+	<a href="https://graphql.org" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- Hadoop
+	<a href="https://hadoop.apache.org/" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- Nginx -->
+	<a href="https://www.nginx.com" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+	</a>&nbsp;&nbsp;
+<!-- NodeJS -->
+	<a href="https://nodejs.org" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+	</a>&nbsp;&nbsp;
+<!-- Spring -->
+	<a href="https://spring.io/" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+	</a>&nbsp;&nbsp;
+<!-- ExpressJS
+	<a href="https://expressjs.com" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+	</a> -->
 </p>
 
 ### Mobile app development
