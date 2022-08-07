@@ -313,35 +313,43 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 ### Backend as a Service (BaaS)
 
 <p align="left">
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://heroku.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-</a>
+<!-- Firebase -->
+	<a href="https://firebase.google.com/" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+	</a>&nbsp;&nbsp;
+<!-- Heroku -->
+	<a href="https://heroku.com" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+	</a>
 </p>
 
 ### Frameworks
 
 <p align="left">
-<a href="https://codeigniter.com" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://laravel.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://rubyonrails.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-</a>
+<!-- Codeigniter
+	<a href="https://codeigniter.com" target="_blank">
+	<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- Django
+	<a href="https://www.djangoproject.com/" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- DoNet -->
+	<a href="https://dotnet.microsoft.com/" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+	</a>&nbsp;&nbsp;
+<!-- Flask
+	<a href="https://flask.palletsprojects.com/" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- Laravel
+	<a href="https://laravel.com/" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+	</a>&nbsp;&nbsp; -->
+<!-- RubyOnRails
+	<a href="https://rubyonrails.org" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+	</a> -->
 </p>
 
 ### Testing
