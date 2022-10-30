@@ -500,15 +500,6 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=highcontrast&hide_border=false" alt="LesterAGarciaA97" />
 </p>
 
-## More stats
-<div align="center" >
-<a  href="https://github.com/LesterAGarciaA97">
-<img src="https://raw.githubusercontent.com/LesterAGarciaA97/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/LesterAGarciaA97/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/LesterAGarciaA97/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</a>
-<img align="center" src="https://raw.githubusercontent.com/LesterAGarciaA97/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-
 <!-------------------------------------------------------------------------UNUSED CODE---------------------------------------------------------------------------------------->
 
 
