@@ -425,10 +425,10 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 <!-- ### Static site generators
 
 <p align="left">
- GatsbyJS -->
+ GatsbyJS
 	<a href="https://www.gatsbyjs.com/" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
-	</a>&nbsp;&nbsp;
+	</a>&nbsp;&nbsp; -->
 <!-- Jekyllrb
 	<a href="https://jekyllrb.com/" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
