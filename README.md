@@ -440,8 +440,8 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 <!-- NuxtJS
 	<a href="https://nuxtjs.org/" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
-	</a> -->
-</p>
+	</a>
+</p> -->
 
 ### Other
 
