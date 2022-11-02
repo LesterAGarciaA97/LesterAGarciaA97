@@ -545,11 +545,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/LesterAGarciaA97/github-slideshow/pull/10) in [LesterAGarciaA97/github-slideshow](https://github.com/LesterAGarciaA97/github-slideshow)
-2. ❌ Closed PR [#6](https://github.com/LesterAGarciaA97/ComputerArchitectureII/pull/6) in [LesterAGarciaA97/ComputerArchitectureII](https://github.com/LesterAGarciaA97/ComputerArchitectureII)
-3. ❌ Closed PR [#5](https://github.com/LesterAGarciaA97/ComputerArchitectureII/pull/5) in [LesterAGarciaA97/ComputerArchitectureII](https://github.com/LesterAGarciaA97/ComputerArchitectureII)
-4. ❌ Closed PR [#18](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/18) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
-5. ❌ Closed PR [#3](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2/pull/3) in [LesterAGarciaA97/EstructuraDeDatosII-LAB-2](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2)
+1. 🎉 Merged PR [#1](https://github.com/LesterAGarciaA97/MusicFeel_CloudFormation/pull/1) in [LesterAGarciaA97/MusicFeel_CloudFormation](https://github.com/LesterAGarciaA97/MusicFeel_CloudFormation)
+2. 💪 Opened PR [#1](https://github.com/LesterAGarciaA97/MusicFeel_CloudFormation/pull/1) in [LesterAGarciaA97/MusicFeel_CloudFormation](https://github.com/LesterAGarciaA97/MusicFeel_CloudFormation)
+3. 🎉 Merged PR [#3](https://github.com/LesterAGarciaA97/DemoGit/pull/3) in [LesterAGarciaA97/DemoGit](https://github.com/LesterAGarciaA97/DemoGit)
+4. 💪 Opened PR [#3](https://github.com/LesterAGarciaA97/DemoGit/pull/3) in [LesterAGarciaA97/DemoGit](https://github.com/LesterAGarciaA97/DemoGit)
+5. ❌ Closed PR [#2](https://github.com/LesterAGarciaA97/DemoGit/pull/2) in [LesterAGarciaA97/DemoGit](https://github.com/LesterAGarciaA97/DemoGit)
 <!--END_SECTION:activity-->
 
 ## Wakatime stats
