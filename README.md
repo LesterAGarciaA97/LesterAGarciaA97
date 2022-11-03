@@ -500,23 +500,6 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=highcontrast&hide_border=false" alt="LesterAGarciaA97" />
 </p>
 
-<!-------------------------------------------------------------------------UNUSED CODE---------------------------------------------------------------------------------------->
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight)  -->
-
-<!-- <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="LesterAGarciaA97" /></a>  -->
-<!-- ![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&include_all_commits=true&show_icons=true&theme=tokyonight) -->
-
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=highcontrast&hide_border=false" alt="LesterAGarciaA97" /></p>  -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&" alt="lesteragarciaa97" /></p>  -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=tokyonight" alt="lesteragarciaa97" /></p>  -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LesterAGarciaA97&theme=tokyonight)](https://git.io/streak-stats) -->
-
-
-<!-------------------------------------------------------------------------UNUSED CODE---------------------------------------------------------------------------------------->
-
 
 <p align="center">
 <a href="https://github.com/LesterAGarciaA97/github-readme-stats">
