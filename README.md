@@ -528,11 +528,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#26](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/26) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-2. ❌ Closed PR [#25](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/25) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-3. ❌ Closed PR [#33](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/33) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-4. ❌ Closed PR [#32](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/32) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-5. ❌ Closed PR [#19](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/19) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
+1. ❌ Closed PR [#28](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/28) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+2. ❌ Closed PR [#27](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/27) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+3. ❌ Closed PR [#35](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/35) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+4. ❌ Closed PR [#34](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/34) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+5. ❌ Closed PR [#26](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/26) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
 <!--END_SECTION:activity-->
 
 ## Wakatime stats
