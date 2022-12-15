@@ -528,11 +528,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#29](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/29) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-2. ❌ Closed PR [#6](https://github.com/LesterAGarciaA97/MusicFeel_CRUD/pull/6) in [LesterAGarciaA97/MusicFeel_CRUD](https://github.com/LesterAGarciaA97/MusicFeel_CRUD)
-3. ❌ Closed PR [#3](https://github.com/LesterAGarciaA97/MusicFeel_RekognitionAPI/pull/3) in [LesterAGarciaA97/MusicFeel_RekognitionAPI](https://github.com/LesterAGarciaA97/MusicFeel_RekognitionAPI)
-4. ❌ Closed PR [#38](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/38) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-5. ❌ Closed PR [#37](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/37) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+1. ❌ Closed PR [#7](https://github.com/LesterAGarciaA97/MusicFeel_CRUD/pull/7) in [LesterAGarciaA97/MusicFeel_CRUD](https://github.com/LesterAGarciaA97/MusicFeel_CRUD)
+2. ❌ Closed PR [#4](https://github.com/LesterAGarciaA97/MusicFeel_RekognitionAPI/pull/4) in [LesterAGarciaA97/MusicFeel_RekognitionAPI](https://github.com/LesterAGarciaA97/MusicFeel_RekognitionAPI)
+3. ❌ Closed PR [#40](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/40) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+4. ❌ Closed PR [#39](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/39) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+5. ❌ Closed PR [#29](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/29) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
 <!--END_SECTION:activity-->
 
 ## Wakatime stats
