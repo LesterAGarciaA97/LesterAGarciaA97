@@ -528,11 +528,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/LesterAGarciaA97/MusicFeel_CRUD/pull/7) in [LesterAGarciaA97/MusicFeel_CRUD](https://github.com/LesterAGarciaA97/MusicFeel_CRUD)
-2. ❌ Closed PR [#4](https://github.com/LesterAGarciaA97/MusicFeel_RekognitionAPI/pull/4) in [LesterAGarciaA97/MusicFeel_RekognitionAPI](https://github.com/LesterAGarciaA97/MusicFeel_RekognitionAPI)
-3. ❌ Closed PR [#40](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/40) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-4. ❌ Closed PR [#39](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/39) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-5. ❌ Closed PR [#29](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/29) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+1. ❌ Closed PR [#8](https://github.com/LesterAGarciaA97/MusicFeel_CRUD/pull/8) in [LesterAGarciaA97/MusicFeel_CRUD](https://github.com/LesterAGarciaA97/MusicFeel_CRUD)
+2. ❌ Closed PR [#30](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/30) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+3. ❌ Closed PR [#42](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/42) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+4. ❌ Closed PR [#41](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/41) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+5. ❌ Closed PR [#7](https://github.com/LesterAGarciaA97/MusicFeel_CRUD/pull/7) in [LesterAGarciaA97/MusicFeel_CRUD](https://github.com/LesterAGarciaA97/MusicFeel_CRUD)
 <!--END_SECTION:activity-->
 
 ## Wakatime stats
