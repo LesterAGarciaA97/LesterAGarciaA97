@@ -493,20 +493,20 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 <!--lesteragarciaa97-->
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight" alt="LesterAGarciaA97" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="lesteragarciaa97" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesteragarciaa97&layout=compact&theme=tokyonight" alt="lesteragarciaa97" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lesteragarciaa97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="lesteragarciaa97" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LesterAGarciaA97&theme=highcontrast&hide_border=false" alt="LesterAGarciaA97" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=highcontrast&hide_border=false" alt="lesteragarciaa97" />
 </p>
 
 
 <p align="center">
-<a href="https://github.com/LesterAGarciaA97/github-readme-stats">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LesterAGarciaA97&repo=github-readme-stats&show_owner=true&theme=tokyonight" />
+<a href="https://github.com/lesteragarciaa97/github-readme-stats">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=lesteragarciaa97&repo=github-readme-stats&show_owner=true&theme=tokyonight" />
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/LesterAGarciaA97/LesterAGarciaA97.github.io">
+<a href="https://github.com/lesteragarciaa97/lesteragarciaa97.github.io">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=lesteragarciaa97&repo=LesterAGarciaA97.github.io&theme=tokyonight" />
 </a>&nbsp;&nbsp;
 </p>
