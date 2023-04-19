@@ -497,7 +497,7 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="LesterAGarciaA97" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lesteragarciaa97&theme=highcontrast&hide_border=false" alt="lesteragarciaa97" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lesteragarciaa97&theme=highcontrast&hide_border=false" alt="lesteragarciaa97" />
 </p>
 
 
