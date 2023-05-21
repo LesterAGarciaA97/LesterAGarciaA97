@@ -523,8 +523,8 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 	</a>
 </p>
 
-<!-- # Contribution graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LesterAGarciaA97&theme=dracula&hide_border=true) -->
+# Contribution graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LesterAGarciaA97&theme=dracula&hide_border=true)
 
 ## Recent activity
 <!--START_SECTION:activity-->
