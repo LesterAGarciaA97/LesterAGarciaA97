@@ -528,10 +528,10 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2/pull/7) in [LesterAGarciaA97/EstructuraDeDatosII-LAB-2](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2)
-2. ❌ Closed PR [#8](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2/pull/8) in [LesterAGarciaA97/EstructuraDeDatosII-LAB-2](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2)
-3. ❌ Closed PR [#9](https://github.com/LesterAGarciaA97/ComputerArchitectureII/pull/9) in [LesterAGarciaA97/ComputerArchitectureII](https://github.com/LesterAGarciaA97/ComputerArchitectureII)
-4. ❌ Closed PR [#12](https://github.com/LesterAGarciaA97/MusicFeel_CRUD/pull/12) in [LesterAGarciaA97/MusicFeel_CRUD](https://github.com/LesterAGarciaA97/MusicFeel_CRUD)
+1. ❌ Closed PR [#51](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/51) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+2. ❌ Closed PR [#35](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/35) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+3. ❌ Closed PR [#7](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2/pull/7) in [LesterAGarciaA97/EstructuraDeDatosII-LAB-2](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2)
+4. ❌ Closed PR [#8](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2/pull/8) in [LesterAGarciaA97/EstructuraDeDatosII-LAB-2](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2)
 5. ❌ Closed PR [#5](https://github.com/LesterAGarciaA97/MusicFeel_RekognitionAPI/pull/5) in [LesterAGarciaA97/MusicFeel_RekognitionAPI](https://github.com/LesterAGarciaA97/MusicFeel_RekognitionAPI)
 <!--END_SECTION:activity-->
 
