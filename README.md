@@ -528,11 +528,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/LesterAGarciaA97/github-slideshow/pull/15) in [LesterAGarciaA97/github-slideshow](https://github.com/LesterAGarciaA97/github-slideshow)
-2. ❌ Closed PR [#14](https://github.com/LesterAGarciaA97/github-slideshow/pull/14) in [LesterAGarciaA97/github-slideshow](https://github.com/LesterAGarciaA97/github-slideshow)
-3. ❌ Closed PR [#51](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/51) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-4. ❌ Closed PR [#35](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/35) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-5. ❌ Closed PR [#7](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2/pull/7) in [LesterAGarciaA97/EstructuraDeDatosII-LAB-2](https://github.com/LesterAGarciaA97/EstructuraDeDatosII-LAB-2)
+1. ❌ Closed PR [#52](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/52) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+2. ❌ Closed PR [#36](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/36) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+3. ❌ Closed PR [#15](https://github.com/LesterAGarciaA97/github-slideshow/pull/15) in [LesterAGarciaA97/github-slideshow](https://github.com/LesterAGarciaA97/github-slideshow)
+4. ❌ Closed PR [#14](https://github.com/LesterAGarciaA97/github-slideshow/pull/14) in [LesterAGarciaA97/github-slideshow](https://github.com/LesterAGarciaA97/github-slideshow)
+5. ❌ Closed PR [#51](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/51) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
 <!--END_SECTION:activity-->
 
 ## Wakatime stats
