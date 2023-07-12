@@ -528,11 +528,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#40](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/40) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-2. ❌ Closed PR [#39](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/39) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-3. ❌ Closed PR [#38](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/38) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-4. ❌ Closed PR [#37](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/37) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-5. ❌ Closed PR [#56](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/56) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+1. ❌ Closed PR [#57](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/57) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+2. ❌ Closed PR [#41](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/41) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+3. ❌ Closed PR [#40](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/40) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+4. ❌ Closed PR [#39](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/39) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+5. ❌ Closed PR [#38](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/38) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
 <!--END_SECTION:activity-->
 
 ## Wakatime stats
