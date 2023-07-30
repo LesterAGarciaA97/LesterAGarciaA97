@@ -19,7 +19,7 @@ I am Lester García, a passionate junior software developer and a junior QA anal
 - .NET development
 - Gaming
 
-## Skills
+## Skill
 
 ### Programming languages and tools
 
