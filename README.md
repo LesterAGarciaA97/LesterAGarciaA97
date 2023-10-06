@@ -528,8 +528,8 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#23](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/23) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
-2. ❌ Closed PR [#22](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/22) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
+1. ❌ Closed PR [#42](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/42) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+2. ❌ Closed PR [#59](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/59) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
 3. ❌ Closed PR [#21](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/21) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
 4. ❌ Closed PR [#20](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/20) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
 5. 🎉 Merged PR [#15](https://github.com/LesterAGarciaA97/MusicFeel_CRUD/pull/15) in [LesterAGarciaA97/MusicFeel_CRUD](https://github.com/LesterAGarciaA97/MusicFeel_CRUD)
