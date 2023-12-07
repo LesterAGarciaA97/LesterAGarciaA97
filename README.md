@@ -6,11 +6,11 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-# 🖥 Junior software developer and junior QA analyst
+# 🖥 Junior software developer and senior QA analyst
 
-I am Lester García, a passionate junior software developer and a junior QA analyst from Guatemala.
+I am Lester García, a passionate junior software developer and a senior QA analyst from Guatemala.
 
-<p>BI QA Analyst at <a href="https://www.ezcorp.com/overview/default.aspx">EZCORP</a></p>
+<p>Sr. Software Quality Assurance Analyst IIB at <a href="https://www.telusinternational.com/">Telus International - Digital Solutions</a></p>
 
 ## I am passionate about
 
