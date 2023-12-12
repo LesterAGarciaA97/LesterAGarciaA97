@@ -10,7 +10,7 @@
 
 I am Lester García, a passionate junior software developer and a senior QA analyst from Guatemala.
 
-<p>Sr. Software Quality Assurance Analyst IIB at <a href="https://www.telusinternational.com/">Telus International - Digital Solutions</a></p>
+<p>Sr. Software Quality Assurance Analyst IIB at <a href="https://www.telusinternational.com/">TELUS International - Digital Solutions</a></p>
 
 ## I am passionate about
 
