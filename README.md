@@ -416,10 +416,6 @@ I am Lester García, a passionate junior software developer and a senior QA anal
 	<a href="https://www.sketch.com/" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
 	</a>&nbsp;&nbsp;
-<!-- AdobeXD -->
-	<a href="https://www.adobe.com/products/xd.html" target="_blank">
-	<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-	</a>
 </p>
 
 ### Static site generators
@@ -435,7 +431,7 @@ I am Lester García, a passionate junior software developer and a senior QA anal
 	</a>&nbsp;&nbsp;
 <!-- NextJS -->
 	<a href="https://nextjs.org/" target="_blank">
-	<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
+	<img src="https://worldvectorlogo.com/logo/next-js" alt="nextjs" width="40" height="40"/>
 	</a>&nbsp;&nbsp;
 <!-- NuxtJS -->
 	<a href="https://nuxtjs.org/" target="_blank">
