@@ -527,9 +527,9 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#25](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/25) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
-2. ❌ Closed PR [#62](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/62) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-3. ❌ Closed PR [#45](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/45) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+1. ❌ Closed PR [#63](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/63) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+2. ❌ Closed PR [#46](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/46) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+3. ❌ Closed PR [#25](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/25) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
 4. ❌ Closed PR [#60](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/60) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
 5. ❌ Closed PR [#42](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/42) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
 <!--END_SECTION:activity-->
