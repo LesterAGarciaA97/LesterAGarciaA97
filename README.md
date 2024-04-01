@@ -527,11 +527,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#47](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/47) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-2. ❌ Closed PR [#64](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/64) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-3. ❌ Closed PR [#63](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/63) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-4. ❌ Closed PR [#46](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/46) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-5. ❌ Closed PR [#25](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper/pull/25) in [LesterAGarciaA97/FullstackJAVADeveloper](https://github.com/LesterAGarciaA97/FullstackJAVADeveloper)
+1. ❌ Closed PR [#16](https://github.com/LesterAGarciaA97/github-slideshow/pull/16) in [LesterAGarciaA97/github-slideshow](https://github.com/LesterAGarciaA97/github-slideshow)
+2. ❌ Closed PR [#50](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/50) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+3. ❌ Closed PR [#49](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/49) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+4. ❌ Closed PR [#48](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/48) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+5. ❌ Closed PR [#12](https://github.com/LesterAGarciaA97/ComputerArchitectureII/pull/12) in [LesterAGarciaA97/ComputerArchitectureII](https://github.com/LesterAGarciaA97/ComputerArchitectureII)
 <!--END_SECTION:activity-->
 
 ## Wakatime stats
