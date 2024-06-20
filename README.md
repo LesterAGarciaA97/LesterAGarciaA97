@@ -527,11 +527,11 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/LesterAGarciaA97/MusicFeel_CRUD/pull/17) in [LesterAGarciaA97/MusicFeel_CRUD](https://github.com/LesterAGarciaA97/MusicFeel_CRUD)
-2. ❌ Closed PR [#51](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/51) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
-3. ❌ Closed PR [#71](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/71) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-4. ❌ Closed PR [#70](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/70) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
-5. ❌ Closed PR [#16](https://github.com/LesterAGarciaA97/github-slideshow/pull/16) in [LesterAGarciaA97/github-slideshow](https://github.com/LesterAGarciaA97/github-slideshow)
+1. ❌ Closed PR [#18](https://github.com/LesterAGarciaA97/MusicFeel_CRUD/pull/18) in [LesterAGarciaA97/MusicFeel_CRUD](https://github.com/LesterAGarciaA97/MusicFeel_CRUD)
+2. ❌ Closed PR [#72](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/72) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
+3. ❌ Closed PR [#17](https://github.com/LesterAGarciaA97/MusicFeel_CRUD/pull/17) in [LesterAGarciaA97/MusicFeel_CRUD](https://github.com/LesterAGarciaA97/MusicFeel_CRUD)
+4. ❌ Closed PR [#51](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI/pull/51) in [LesterAGarciaA97/MusicFeel_SpotifyAPI](https://github.com/LesterAGarciaA97/MusicFeel_SpotifyAPI)
+5. ❌ Closed PR [#71](https://github.com/LesterAGarciaA97/Virtualization_Project/pull/71) in [LesterAGarciaA97/Virtualization_Project](https://github.com/LesterAGarciaA97/Virtualization_Project)
 <!--END_SECTION:activity-->
 
 ## Wakatime stats
