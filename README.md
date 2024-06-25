@@ -492,7 +492,7 @@ At some point the data displayed here will not be updated, sometimes it takes ti
 <!--lesteragarciaa97-->
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight" alt="lesterAGarciaA97" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesterAGarciaA97&layout=compact&theme=tokyonight" alt="LesterAGarciaA97" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LesterAGarciaA97&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="LesterAGarciaA97" />
 </p>
 <p align="center">
